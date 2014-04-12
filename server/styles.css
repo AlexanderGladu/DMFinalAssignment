@@ -1,0 +1,18 @@
+body {
+  background-color: #0F0F0F;
+}
+
+p {
+  font-size:24pt;  
+  font-family:times;
+  font-variant:small-caps;
+  font-weight: normal;
+  color:#999999;
+}
+
+img {
+  vertical-align: middle;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
